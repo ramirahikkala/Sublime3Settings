@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"File Rename",
+		"Git",
+		"GitGutter",
+		"GitStatusBar",
+		"Markdown Preview",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"Theme - Flatland"
+	]
+}

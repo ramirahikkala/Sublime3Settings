@@ -1,0 +1,20 @@
+[
+  { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+  {
+        "keys": ["enter"], "command": "commit_completion", "context": [
+            { "key": "auto_complete_visible" }
+        ]
+  },
+  {
+        "keys": ["tab"], "command": "commit_completion", "context": [
+            { "key": "auto_complete_visible" }
+        ]
+  },
+  {
+        "keys": ["."], "command": "commit_completion", "context": [
+            { "key": "auto_complete_visible" }
+        ]
+  },
+  { "keys": ["ctrl+shift+v"], "command": "paste_from_history" }
+]
