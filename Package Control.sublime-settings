@@ -8,13 +8,17 @@
 		"Anaconda",
 		"File Rename",
 		"Git",
+		"Git blame",
 		"GitGutter",
 		"GitStatusBar",
+		"GitTimeMetric",
+		"JSON Reindent",
 		"Markdown Preview",
 		"MarkdownLivePreview",
 		"Package Control",
 		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
+		"SublimeLinter-contrib-yamllint",
 		"Theme - Flatland"
 	]
 }
