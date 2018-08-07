@@ -12,4 +12,4 @@ On my Ubuntu system this repository must be cloned to:
 And on windows to:
 TBD
 
-If I remember correctly the package manager must be installed to Sublime before cloning this.
+Package manager must be installed to Sublime before cloning this.
