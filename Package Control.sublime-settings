@@ -5,20 +5,18 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
-		"File Rename",
-		"Git",
-		"Git blame",
+		"Babel",
+		"Dockerfile Syntax Highlighting",
 		"GitGutter",
-		"GitStatusBar",
-		"GitTimeMetric",
-		"JSON Reindent",
-		"Markdown Preview",
-		"MarkdownLivePreview",
+		"GitOpenChangedFiles",
+		"Kivy Language",
+		"Markdown HTML Preview",
+		"Material Theme",
 		"Package Control",
-		"Python PEP8 Autoformat",
-		"SideBarEnhancements",
-		"SublimeLinter-contrib-yamllint",
-		"Theme - Flatland"
+		"PlantUmlDiagrams",
+		"sublack",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pylint"
 	]
 }

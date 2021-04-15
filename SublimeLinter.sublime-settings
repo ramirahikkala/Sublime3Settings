@@ -1,0 +1,11 @@
+// SublimeLinter Settings - User
+{
+	 "debug": false,
+	 "linters": {
+		 "flake8": {
+			"args": [
+            "--max-line-length", "100"
+         ]
+		}
+	}
+}
