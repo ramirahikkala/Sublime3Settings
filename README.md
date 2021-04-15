@@ -13,3 +13,11 @@ And on windows to:
 TBD
 
 Package manager must be installed to Sublime before cloning this.
+
+## Additional requirements
+Install:
+
+
+sudo apt install pylint
+
+sudo apt install flake8
